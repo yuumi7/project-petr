@@ -1,0 +1,22 @@
+{
+  "name": "project-petr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuumi7/project-petr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuumi7/project-petr/issues"
+  },
+  "homepage": "https://github.com/yuumi7/project-petr#readme",
+  "description": "",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
