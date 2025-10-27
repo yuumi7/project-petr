@@ -5,3 +5,5 @@ lib
 node_modules
 public/output.css
 tmp
+js/bundle.js
+js/bundle.js.map
